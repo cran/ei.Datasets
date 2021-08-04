@@ -1,0 +1,39 @@
+ei.Datasets: Real Datasets for Assessing Ecological Inference Algorithms
+Copyright (C) 2021. Jose M. Pavía.
+
+This package is free software and comes WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.
+
+This package is distributed because we find it useful.
+You can redistribute it and/or modify it under the terms of the EPL
+Eclipse Public License - v 1.0, for more details:
+<https://www.eclipse.org/legal/epl-v10.html>
+
+The data contained in this package is distributed under
+license: Attribution 4.0 International (CC BY 4.0), for more details:
+<https://creativecommons.org/licenses/by/4.0/>.
+
+The raw data from 2002, 2005, 2008, 2011, 2014 and 2017 NZ elections were
+downloaded from <https://www.electionresults.org.nz/>, the official website of
+The New Zealand Electoral Commission, on 19th/January/2019.
+The raw data from 2020 NZ elections were downloaded from the same site
+on 23rd/January/2021.
+
+Caveat and disclaimer
+Neither the New Zealand Electoral Commission nor the Electoral Commission (UK) had
+an involvement in preparing this package. They bear no responsibility on the datasets
+in the package. The raw data have been pre-processed in order to guarantee their
+proper usefulness in ecological inference procedures. For the official results,
+refer to the source materials on their websites.
+
+In case you have any problems or questions, please contact:
+
+Jose Manuel Pavía
+GIPEyOP / UMMICS / Universitat de Valencia
+Av Tarongers, s/n
+Valencia, 46022
+Spain
+email: jose.m.pavia@uv.es
+
+

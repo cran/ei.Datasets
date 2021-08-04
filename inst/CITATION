@@ -1,0 +1,18 @@
+citHeader("To cite ei.Datasets in publications use:")
+
+citEntry(entry = "Article",
+  title        = "ei.Datasets: Real datasets for assessing ecological inference algorithms.",
+  author       = personList(as.person("Jose M. Pavía")),
+  journal      = "Social Science Computer Review",
+  year         = "forthcoming",
+  volume       = " ",
+  number       = " ",
+  pages        = " ",
+  url          = " ",
+
+  textVersion  =
+  paste("Pavia, JM (2021).",
+        "ei.Datasets: Real datasets for assessing ecological inference algorithms.",
+        "Social Science Computer Review, forthcoming.",
+        " ")
+)
