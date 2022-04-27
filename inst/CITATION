@@ -4,15 +4,15 @@ citEntry(entry = "Article",
   title        = "ei.Datasets: Real datasets for assessing ecological inference algorithms.",
   author       = personList(as.person("Jose M. Pavía")),
   journal      = "Social Science Computer Review",
-  year         = "forthcoming",
-  volume       = " ",
-  number       = " ",
-  pages        = " ",
-  url          = " ",
+  year         = "2022",
+  volume       = "40",
+  number       = "1",
+  pages        = "247--260",
+  url          = "https://doi.org/10.1177/08944393211040808",
 
   textVersion  =
-  paste("Pavia, JM (2021).",
+  paste("Pavia, JM (2022).",
         "ei.Datasets: Real datasets for assessing ecological inference algorithms.",
-        "Social Science Computer Review, forthcoming.",
+        "Social Science Computer Review, 40, 247-260.",
         " ")
 )
